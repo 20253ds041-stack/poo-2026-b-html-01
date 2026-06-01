@@ -1,4 +1,10 @@
 //versión base de la calculadora
 
 
+<<<<<<< HEAD
 [operación]Función suma implementada
+=======
+
+
+[operación]Función resta implementada
+>>>>>>> feature/resta
