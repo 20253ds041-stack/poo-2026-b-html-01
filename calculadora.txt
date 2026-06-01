@@ -1,1 +1,6 @@
 //versión base de la calculadora
+
+
+
+
+[operación]Función resta implementada
